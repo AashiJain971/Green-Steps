@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/Green-Steps/static/css/main.9afcb197.css",
-    "main.js": "/Green-Steps/static/js/main.b3ad7104.js",
+    "main.js": "/Green-Steps/static/js/main.2ad9dcb1.js",
     "static/js/453.406a72f0.chunk.js": "/Green-Steps/static/js/453.406a72f0.chunk.js",
     "static/media/video.mp4": "/Green-Steps/static/media/video.de62cfdc88d204642b37.mp4",
+    "static/media/googleplay.png": "/Green-Steps/static/media/googleplay.7291830fa4711e5774af.png",
     "index.html": "/Green-Steps/index.html",
     "main.9afcb197.css.map": "/Green-Steps/static/css/main.9afcb197.css.map",
-    "main.b3ad7104.js.map": "/Green-Steps/static/js/main.b3ad7104.js.map",
+    "main.2ad9dcb1.js.map": "/Green-Steps/static/js/main.2ad9dcb1.js.map",
     "453.406a72f0.chunk.js.map": "/Green-Steps/static/js/453.406a72f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9afcb197.css",
-    "static/js/main.b3ad7104.js"
+    "static/js/main.2ad9dcb1.js"
   ]
 }
